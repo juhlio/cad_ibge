@@ -14,7 +14,7 @@ Node.js
 Axios
 Sequelize
 Executando a aplicação
-Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+Clone o repositório: git clone https://github.com/juhlio/cad_ibge
 Instale as dependências: npm install
 Configure o banco de dados no arquivo db.js
 Execute a aplicação: node index.js
